@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          My github page running
+          My github page running, SSH attemp
         </p>
         <a
           className="App-link"
